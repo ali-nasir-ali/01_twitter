@@ -30,4 +30,4 @@ REC_EMAIL=<Where you want to send emails about errors>
 
 In order to keep the bot running and avoid the free dynos provided by heroku from idling, register you app at http://kaffeine.herokuapp.com/
 
-# https://github.com/jharris711/josh_bot_9000
+# https://github.com/jharris711/josh_bot_9000 
